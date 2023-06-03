@@ -1,4 +1,3 @@
-
 import { LitElement, html, css } from 'lit';
 import { customElement } from 'lit/decorators.js'
 import './components/clicker'
@@ -23,4 +22,3 @@ export class App extends LitElement {
 		<todo-list></todo-list>`;
 	}
 }
-// customElements.define('app-lication', App);
